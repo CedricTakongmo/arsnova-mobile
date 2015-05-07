@@ -167,4 +167,4 @@ Sencha's environments or one of the shortcuts `prod` and `dev`.
 ## Credits
 
 ARSnova is powered by Technische Hochschule Mittelhessen - University of Applied
-Sciences.
+Sciences. 
